@@ -1,0 +1,86 @@
+body {
+    background-image: url(https://i0.wp.com/thekopi.co/wp-content/uploads/2019/11/Schindler_Singapores_Shinozaki-.png?fit=3000%2C1400&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border: 0cm;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+.the {
+    border: 4px solid black;
+    border-collapse: collapse;
+    width: 10%;
+    background-color: blueviolet;
+    border: 10px solid;
+    margin: 25px;
+}
+th {
+    font-size: 50px;
+    font-family: monospace;
+    background-color: red;
+}
+p {
+    font-family: monospace;
+    color: rgb(220, 20, 60);
+    text-align: left;
+    font-size: 30px;
+    background-color: black;
+    margin: 10px;
+    ;
+}
+a {
+    font-family: monospace;
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+a:hover {
+    color: blue;
+}
+.dinasour {
+    background-color: aqua;
+    border: 4px solid black;
+}
+.dinasour :hover {
+    background-color: blueviolet
+}
+.green {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:crimson;
+    border:0cm solid;
+}
+.s1{
+color:green;
+ font-size:40px;
+ font-family: monospace;
+ font-weight: bold;
+ background-color: black;
+
+}
+.s2{
+    color:blue;
+    font-size:40px;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: black; 
+}
+.s3{
+    color:red;
+    font-size:40px;
+    font-family: monospace;
+    font-weight: bold; 
+    background-color: black;
+}
+div{
+    line-height: 1cm;
+}
